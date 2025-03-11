@@ -1,9 +1,8 @@
 *.tar
 *.tar.*
 *.jar
-*.exe
-*.msi
 *.zip
+*.rar
 *.tgz
 *.log
 *.log.*
