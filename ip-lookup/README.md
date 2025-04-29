@@ -106,6 +106,3 @@ Example: go run iplookup.go 8.8.8.8
 
 MIT License
 
----
-
-Would you like me to generate a downloadable `README.md` file for you?
